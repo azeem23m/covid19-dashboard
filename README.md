@@ -10,6 +10,10 @@ The dashboard was made with Plotly Dash.
 - **Interactive Map**: Features an interactive map to track the global spread of COVID-19, with color-coded regions based on case density.
 - **Data Source**: The data was found on kaggle [COVID-19 Dataset](https://www.kaggle.com/datasets/imdevskp/corona-virus-report).
 
+### Demo
+https://github.com/user-attachments/assets/d1639a65-57dd-4ec9-82cd-a6dbae814443
+
+
 ### Installation:
 1. Clone this repository.
 2. Install the required dependencies by running `pip install -r requirements.txt`.
